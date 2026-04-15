@@ -1,4 +1,4 @@
-name: Test
+name: Use released hello world docker action
 on: [workflow_dispatch]
 
 jobs:
